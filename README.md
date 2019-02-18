@@ -1,6 +1,6 @@
 # AppiumRuby 
 
-A simple project example just to show how to build a sample structure with Ruby, Appium and Cucumber.
+A simple project just to show how to build a sample structure with Ruby, Appium and Cucumber.
 
 # Structure:
 
