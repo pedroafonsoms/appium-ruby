@@ -1,0 +1,6 @@
+[caps]
+platformName = 'iOS'
+automationName = 'XCUITest'
+platformVersion = '12.0'
+deviceName = 'iPhone 8 Plus'
+app = './app/SimpleCalculator.app'

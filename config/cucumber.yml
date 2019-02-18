@@ -1,0 +1,8 @@
+# config/cucumber.yml
+##YAML Template
+
+android: PLATFORM=android --exclude features/screens/ios
+
+ios: PLATFORM=ios --exclude features/screens/android
+
+report: --format AllureCucumber::Formatter --out report/

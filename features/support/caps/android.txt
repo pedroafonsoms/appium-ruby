@@ -1,0 +1,8 @@
+[caps]
+platformName = 'Android'
+deviceName = 'emulator-5554'
+app = './app/app-android-calculator.apk'
+appPackage = 'com.example.leonardomenezes.simplecalculatorandroid'
+autoGrantPermissions = true
+automationName = 'UiAutomator2'
+newCommandTimeout = 50000
